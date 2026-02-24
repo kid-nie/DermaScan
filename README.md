@@ -18,7 +18,7 @@ This app allows users to upload ingredient images or text and uses AI to analyze
 - Airia
 
 ## Project Status
-Currently in development as part of the 8-day AI building application Decoding Data Science Challenge 2026.
+Currently in development as part of the 8-day AI building application Decoding Data Science Challenge 2026 and AIRIA hackaton.
 
 ## Future Improvements
 - User accounts
